@@ -1,0 +1,11 @@
+{
+  "name": "ReservedVitaminDetectorSlot",
+  "description": "Gives a dedicated Vitamin Detector slot (an item from the Juices Mod) on the right side of your screen !",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Shlygly/LethalCompanyReservedVitaminDetectorSlot",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "FlipMods-ReservedItemSlotCore-2.0.34",
+    "Shlygly-Juices_Mod-1.3.1"
+  ]
+}
